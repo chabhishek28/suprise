@@ -1020,8 +1020,9 @@
 }
 
 .creator-trigger-section {
-  padding: 3rem 1rem 5rem;
+  padding: 3rem 2rem 4rem;
   text-align: center;
+  background: rgba(3, 5, 13, 0.92);
 }
 
 .creator-link {
@@ -1443,12 +1444,10 @@
 }
 
 footer {
-  color: #d7e4f2;
-}
   padding: 3rem 2rem 4rem;
   text-align: center;
-  background: rgba(234, 240, 234, 0.78);
-  color: #334b33;
+  background: rgba(3, 5, 13, 0.92);
+  color: #d7e4f2;
 }
 
 .modal-overlay {

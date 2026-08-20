@@ -10,8 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rolldown/binding-wasm32-wasi": "^1.2.5",
-    "@rolldown/binding-win32-x64-msvc": "^1.2.5",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
